@@ -15,17 +15,17 @@ Welcome to our Resume Builder Website! Our website allows users to easily create
 Here are some screenshots of the project to give you an idea of its features and functionality:
 
 ###### Home Page
-![Home Page]()
+![Home Page](https://github.com/CHINMAY02CS/Resume-Builder/blob/main/Home.png)
 
 ###### Select Template Page
-![Select Template]()
+![Select Template](https://github.com/CHINMAY02CS/Resume-Builder/blob/main/Template%20Meny.png)
 ###### Resume Builder Page
-![Resume Building]()
+![Resume Building](https://github.com/CHINMAY02CS/Resume-Builder/blob/main/Sample%20Template.png)
 ###### About Page
-![About Page]()
+![About Page](https://github.com/CHINMAY02CS/Resume-Builder/blob/main/About%20Page.png)
 
 ###### Dark Mode
-![Dark Mode]()
+![Dark Mode](https://github.com/CHINMAY02CS/Resume-Builder/blob/main/Dark%20Mode.png)
 
 
 
